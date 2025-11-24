@@ -65,7 +65,7 @@ export const Hero = () => {
                 color: '#5A5A5A'
               }}
             >
-              Delivering clarity, integrity, and precision in legal representation. Over 25 years of excellence serving Nigeria's leading corporations and institutions.
+              Delivering clarity, integrity, and precision in legal representation. Over 10 years of excellence serving Nigeria's leading corporations and institutions.
             </p>
             <div className="flex flex-wrap gap-4 md:gap-6 mb-8 md:mb-12">
               <div className="border-l-2 border-[#B30000] pl-4">
