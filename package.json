@@ -2,6 +2,7 @@
       "name": "E.J Eweke",
       "version": "0.1.0",
       "private": true,
+      "type": "module",
       "dependencies": {
             "@radix-ui/react-accordion": "^1.2.3",
             "@radix-ui/react-alert-dialog": "^1.1.6",
@@ -46,6 +47,7 @@
             "recharts": "^2.15.2",
             "sonner": "^2.0.7",
             "tailwind-merge": "*",
+            "tailwindcss": "^3.4.18",
             "vaul": "^1.1.2"
       },
       "devDependencies": {
@@ -55,7 +57,6 @@
             "@vitejs/plugin-react-swc": "^3.10.2",
             "autoprefixer": "^10.4.22",
             "postcss": "^8.5.6",
-            "tailwindcss": "^4.1.17",
             "vite": "6.3.5"
       },
       "scripts": {
