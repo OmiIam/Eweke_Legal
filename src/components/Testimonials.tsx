@@ -5,7 +5,7 @@ const testimonialsData = [
   {
     quote: "E.J. Eweke & Co provided exceptional legal counsel during our corporate restructuring. Their attention to detail and strategic thinking were instrumental to our success.",
     author: "Adebayo Okonkwo",
-    position: "CEO",
+    position: "Consultant",
     company: "TechCorp Nigeria Ltd"
   },
   {
