@@ -4,7 +4,7 @@ import { Award, Shield, Users, Building2 } from 'lucide-react';
 const trustData = [
   {
     icon: Building2,
-    number: '25+',
+    number: '10+',
     label: 'Years of Excellence'
   },
   {
