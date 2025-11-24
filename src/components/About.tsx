@@ -82,7 +82,6 @@ export const About = () => {
                 {[
                   'Nigerian Bar Association (NBA)',
                   'International Bar Association (IBA)',
-                  'Nigerian Institute of Advanced Legal Studies (NIALS)',
                   'Chartered Institute of Arbitrators (CIArb)'
                 ].map((membership, index) => (
                   <li 
