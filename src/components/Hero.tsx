@@ -41,7 +41,7 @@ export const Hero = () => {
                   textTransform: 'uppercase'
                 }}
               >
-                Est. 2000 — Nigerian Bar Association Member
+                Est. 2015 — Nigerian Bar Association Member
               </p>
             </div>
             <h1 
