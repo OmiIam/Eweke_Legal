@@ -90,7 +90,7 @@ export const Hero = () => {
                     color: '#000000'
                   }}
                 >
-                  NBA, IBA, NIALS
+                  NBA, IBA
                 </p>
               </div>
               <div className="border-l-2 border-[#B30000] pl-4">
